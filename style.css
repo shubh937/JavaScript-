@@ -1,0 +1,33 @@
+ham\OneDrive\Desktop\shubh folder\.dist\shubhu\shambhu2\style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #422068;
+    color: red;
+    padding: 25px;
+    text-align: center;
+}
+nav a {
+    color: rgb(234, 234, 234);
+    margin: 0 15px;
+    text-decoration: none;
+}
+section {
+    padding: 40px;
+    background-color: rgb(161, 173, 182);
+}
+form input, form textarea {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+    padding: 8px;
+}
+button {
+    background:white;
+    color:blue;
+    border: none;
+    padding: 10px 20px;
+}
